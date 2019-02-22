@@ -1,0 +1,17 @@
+Creating   'rngfindr.eep'
+Creating   'rngfindr.hex'
+Creating   'rngfindr.obj'
+Creating   'rngfindr.lis'
+Creating   'rngfindr.map'
+
+Assembling 'rngfindr.asm'
+Including  'C:\2_UNI_PROGRAMS\VMLAB\include\m32def.inc'
+
+Program memory usage:
+Code             :  134 words
+Constants (dw/db):    0 words
+Unused           :    0 words
+Total            :  134 words
+
+Assembly complete with no errors.
+Deleting   'rngfindr.eep'
